@@ -1,5 +1,5 @@
-import TopBar from "./components/TopBar/TopBar";
+import Tasks from "./components/Tasks/Tasks";
 
 export default function Home() {
-  return <main className="mt-10">Content-Hello world</main>;
+  return <Tasks />;
 }
